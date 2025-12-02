@@ -17,7 +17,11 @@ This project is built using:
 **It is designed for:**
 
 ✔ Students
+
 ✔ Teachers
+
 ✔ E-learning platforms
+
 ✔ Interview preparation
+
 ✔ Training organizations
