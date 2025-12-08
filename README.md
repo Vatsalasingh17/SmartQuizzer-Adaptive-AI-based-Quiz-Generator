@@ -1,6 +1,6 @@
 **SmartQuizzer-Adaptive-AI-based-Quiz-Generator**
 
-🧠** Introduction**
+**🧠Introduction**
 
 SmartQuizzer is an advanced AI-powered adaptive quiz generator that creates personalized quizzes from any topic or text input. The system uses OpenAI models to generate questions, evaluate answers, and dynamically adjust difficulty based on user performance.
 
